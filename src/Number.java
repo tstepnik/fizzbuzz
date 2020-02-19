@@ -17,7 +17,7 @@ public class Number {
                 System.out.println(numbers.get(i) + " Buzz");
             }
             if (numbers.get(i) % 3 == 0 && numbers.get(i) % 5 == 0) {
-                System.out.println(numbers.get(i) + " FizzBuzz");
+                System.out.println(numbers.get(i) + " FizzBuzzzzzz");
             }
         }
     }
