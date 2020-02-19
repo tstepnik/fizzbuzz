@@ -19,20 +19,5 @@ public class Stream {
                 System.out.println("fizz " + x);
             }
         });
-//        List<Integer> fizzbuzz = numbers.stream()
-//                .filter(x -> x%3 ==0)
-//                .peek(x -> System.out.println("fizz " + x))
-//                .filter(x -> x%5 ==0)
-//                .peek(x -> System.out.println("buzz " + x))
-//                .filter(x -> x%3==0 && x%5==0)
-//                .peek(x -> System.out.println("fizzbuzz " + x))
-//                .collect(Collectors.toList());
-//
-//        fizzbuzz.forEach(x -> System.out.print(""));
-
-//        java.util.stream.Stream<Integer> =
-//        int[] numbers = (numbersStream.toArray());
-//        List<int[]> ints = Arrays.asList(numbers);
-
     }
 }
